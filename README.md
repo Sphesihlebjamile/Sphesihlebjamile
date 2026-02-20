@@ -1,4 +1,8 @@
-## Hi there 👋
+<img width="1129" height="631" alt="image" src="https://github.com/user-attachments/assets/205f967c-6cb0-4689-bddb-e2e0a814df47" />
+
+#### Welcome to my Vault
+
+I am Sphesihle Jamile, a.k.a Sketch, a Software Engineer with 3+ years of hands-on experience developing and maintaining full-stack applications within the .NET and JavaScript ecosystems. I offer a strong technical foundation across multiple programming languages and frameworks, complemented by proven leadership that enhances team collaboration, creativity, and delivery outcomes. Known for my curiosity, attention to detail, and commitment to high-quality engineering, I consistently contribute to building reliable, scalable solutions and driving product innovation.
 
 <!--
 **Sphesihlebjamile/Sphesihlebjamile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
